@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
-blog_post*
 .DS_Store
+*domino*
+results
